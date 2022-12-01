@@ -1,0 +1,9 @@
+production => prod 
+
+development => dev / development
+  - branching
+    - feature
+    - bug-fix - handle bug
+    - refactor - membuat optimasi
+  - commit
+
